@@ -1,0 +1,100 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+  margin-bottom: 0px;
+}
+
+p{
+  color: white;
+  font-size: 30px;
+  font-family:'Courier New', Courier, monospace;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
+
+.container
+{
+    margin-top: 10px;
+    background-color: #FFF8EA;
+    height: 500px;
+    width: 90vw;
+    position: absolute;
+    left: 5%;
+    right: 5%;
+}
+
+button{
+  margin-top: 25px;
+  transition: all 0.3s ease;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+.tom1
+{
+    margin-right: 20px;
+    height: 230px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+.tom2
+{
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+.tom3
+{
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+.tom4
+{
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+.snare
+{
+    margin-right: 20px;
+    height: 250px;
+    width: 250px;
+    display: inline;
+    position: relative;
+}
+.crash
+{
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+.kick
+{
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
